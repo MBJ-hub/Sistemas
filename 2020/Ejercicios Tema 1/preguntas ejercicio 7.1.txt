@@ -1,0 +1,20 @@
+1)tecnologia novedosa de Nvidia:Arquitectura Turing
+2)Que seria la Vram :
+3)Que es la Gpu:Procesador grafico
+4)Ray tracing ? y que trajetas:Significa 
+5)Tipos de memoria GDDR6 HBM2 GDDR5 y GDDR5X
+6)Memoria para ser una garfica buena:4Gigas
+7)Describir tipos conectores:
+-de 6 pines (dos filas tres pines)
+-de 6+2 pines
+-de 8+6 pines
+-de 8+8pines
+-de 8+8+8 pines
+8)Posibles medidas de una tarjeta grafica:ATX normal 220mm de largo->hasta 300mm
+-ITX->de 120mm de ancho por 150 mm de largo.
+9)tipos de disipador y el mejor:
+1.flujo vertical-> esta es la mejor
+2.blover
+3.refrigeracion liquida
+4.pasivo
+10)Rellenar tabla
